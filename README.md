@@ -16,3 +16,4 @@ I'm dedicated to continuous learning and staying updated with the latest industr
 
 📫 **Let's Connect**
 [LinkedIn](https://www.linkedin.com/in/michal-dohnal/)
+[Portfolio](https://www.michaldohnal.dev/)
