@@ -1,5 +1,5 @@
 👋 Hi there! I'm Michal Dohnal
-I'm a passionate frontend developer with a specialization in React and TypeScript. Currently, I'm working at [Direct technologies](https://www.direct-technologies.cz/).
+I'm a passionate frontend developer with a specialization in React and TypeScript. Currently, I'm working at [Custom Ink](https://www.customink.com/).
 
 🚀 **Skills**
 
