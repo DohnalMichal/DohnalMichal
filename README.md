@@ -1,5 +1,5 @@
 👋 Hi there! I'm Michal Dohnal
-I'm a passionate frontend developer with a specialization in React and TypeScript. Currently, I'm working at [Custom Ink](https://www.customink.com/).
+I'm a passionate software engineer with a specialization in React and TypeScript. Currently, I'm working at [Custom Ink](https://www.customink.com/).
 
 🚀 **Skills**
 
@@ -9,7 +9,7 @@ I'm a passionate frontend developer with a specialization in React and TypeScrip
 - TailwindCSS
 
 🌍 **Current Role**
-Frontend Developer at [Direct Technologies](https://www.direct-technologies.cz/)
+Software Engineer at [Custom Ink](https://www.customink.com/)
 
 💡 **About Me**
 I'm dedicated to continuous learning and staying updated with the latest industry trends. When I'm not coding, you can find me either in the gym or in a coffee shop making pretty latte arts.
